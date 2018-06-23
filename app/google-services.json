@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "526328183698",
+    "firebase_url": "https://visionx-35a07.firebaseio.com",
+    "project_id": "visionx-35a07",
+    "storage_bucket": "visionx-35a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526328183698:android:e4692083ed2d8229",
+        "android_client_info": {
+          "package_name": "com.pcs.kundankumar.vision_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526328183698-0im7qsrbe8b85uhtpplvhehser2s44h4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pcs.kundankumar.vision_x",
+            "certificate_hash": "999baa3a17a714835bce938e58b4b83530e6eeda"
+          }
+        },
+        {
+          "client_id": "526328183698-pe4uehhpu5v186lasebe9emsg62gclga.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "526328183698-pe4uehhpu5v186lasebe9emsg62gclga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaO7stW-_tCalJwhi3d1G_RUePqwAq6BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526328183698-pe4uehhpu5v186lasebe9emsg62gclga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526328183698:android:522ca06008b0cf1e",
+        "android_client_info": {
+          "package_name": "com.pcs.kundankumar.visionx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526328183698-imm2f7pr0u0llgposm5r37gcf63lfomf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pcs.kundankumar.visionx",
+            "certificate_hash": "999baa3a17a714835bce938e58b4b83530e6eeda"
+          }
+        },
+        {
+          "client_id": "526328183698-pe4uehhpu5v186lasebe9emsg62gclga.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "526328183698-pe4uehhpu5v186lasebe9emsg62gclga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaO7stW-_tCalJwhi3d1G_RUePqwAq6BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526328183698-pe4uehhpu5v186lasebe9emsg62gclga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
